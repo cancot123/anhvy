@@ -21,7 +21,7 @@ const Layout = () => {
             <div class="logo">
               <a href="/">
                 <img
-                  src="https://giadinh.edu.vn/upload/photo/logogdu-02-5690.png"
+                  src="https://i.pinimg.com/736x/f3/03/a3/f303a31db7a0e9237f169f8397ee01aa.jpg"
                   alt="Logo"
                 />
               </a>
